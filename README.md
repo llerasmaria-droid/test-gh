@@ -10,5 +10,5 @@
 git init
 git status
 git add --all
-git commit -m 
+git commit -m"comentario" 
 
