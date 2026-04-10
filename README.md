@@ -20,3 +20,4 @@ Me caracterizo por ser una persona responsable,analitica y orientada a la
 solucion de problemas
 mi objetivo es aportar soluciones tecnologicas que optimicen procesos
 organizacionales
+![mariall] (imagen/mariall.jpeg)
