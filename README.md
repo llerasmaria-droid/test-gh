@@ -15,7 +15,7 @@ git commit -m"comentario"
 
 # Perfil
 
-<mariall src="https://github.com/user-attachments/assets/f0041c79-c8c3-4c48-b0aa-17d79d257448" width="200"/>
+![mariall](https://github.com/user-attachments/assets/782114c9-a432-49b2-82b8-bb75ad78be65)
 
 
 
