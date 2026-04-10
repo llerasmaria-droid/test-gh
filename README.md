@@ -10,7 +10,9 @@
 git init
 git status
 git add --all
-git commit -m"comentario" 
+git commit -m"comentario" ![mariall](https://github.com/user-attachments/assets/782114c9-a432-49b2-82b8-bb75ad78be65)
+![mariall](https://github.com/user-attachments/assets/4850b963-3552-4a2c-9d58-bb7f0d27b1c7)
+
 
 
 # Perfil
